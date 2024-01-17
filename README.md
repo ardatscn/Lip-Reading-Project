@@ -18,4 +18,7 @@ that could best achieve the lip-reading purpose and in this sense, my work had s
 unique methods and it helped them to get the results of various models that can be 
 compared and evaluated with other engineers’ approaches.
 
-A technical report was also included that summarizes the findings
+A technical report was also included that summarizes the findings. This project was
+conducted in an internship, therefore this report contains some parts related to
+the company or my mentors. The report also gives brief information about another
+AI project which is "Avionic Maintenance Prediction".
